@@ -1,2 +1,47 @@
 # four-card-feature-section
  This challenge is to build out this feature section and get it looking as close to the design as possible. Users should:  - View the optimal layout for the site depending on their device's screen size.
+
+
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help to improve coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+
+
+
+
+## Overview
+
+### Screenshot
+
+![desktop-preview](https://github.com/lily4178993/Stats-preview-card-component/blob/main/design/desktop-preview.jpeg?raw=true)
+![mobile-preview](https://github.com/lily4178993/Stats-preview-card-component/blob/main/design/mobile-preview.jpeg)
+
+### Links
+
+- Solution URL: [view solution here](https://your-solution-url.com)
+- Live Site URL: [view live site here](https://your-live-site-url.com)
+
+
+
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+
+
+
+
+## Author
+
+- Frontend Mentor - [@lily4178993](https://www.frontendmentor.io/profile/lily4178993)
