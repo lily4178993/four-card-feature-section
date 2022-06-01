@@ -24,7 +24,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- [go to solution here]()
+- [go to solution here](https://www.frontendmentor.io/solutions/responsive-card-feature-section-using-html-and-css-8rwk2-2bcZ)
 - [go to live site here](https://lily4178993.github.io/four-card-feature-section/)
 
 
