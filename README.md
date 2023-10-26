@@ -1,46 +1,57 @@
-# four-card-feature-section
- This challenge is to build out this feature section and get it looking as close to the design as possible. Users should:  - View the optimal layout for the site depending on their device's screen size.
+# Four Card Feature Section
 
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This repository presents a solution to the Four Card Feature Section challenge on Frontend Mentor. The challenge centers around creating a feature section that closely replicates the provided design and ensures optimal layout on various devices.
 
-## Table of contents
+Frontend Mentor challenges offer a valuable opportunity to enhance coding skills by tackling real-world projects.
+
+## Table of Contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+  - [Screenshots](#screenshots)
+- [Live Demo](#live-demo)
+- [My Process](#my-process)
+  - [Built With](#built-with)
+- [Acknowledgments](#acknowledgments)
+- [License](#license)
 - [Author](#author)
 
-
-
-
+<a name="overview"></a>
 ## Overview
 
-### Screenshot
+<a name="screenshots"></a>
+### Screenshots
 
-![desktop-preview](https://github.com/lily4178993/four-card-feature-section/blob/main/design/desktop-preview.jpeg?raw=true)
-![mobile-preview](https://github.com/lily4178993/four-card-feature-section/blob/main/design/mobile-preview.jpeg)
+![Desktop Preview](https://github.com/lily4178993/four-card-feature-section/blob/main/design/desktop-preview.jpeg?raw=true)
 
-### Links
+<a name="live-demo"></a>
+## Live Demo
 
-- [go to solution here](https://www.frontendmentor.io/solutions/responsive-card-feature-section-using-html-and-css-8rwk2-2bcZ)
-- [go to live site here](https://lily4178993.github.io/four-card-feature-section/)
+You can view the live demo of this project [here](https://lily4178993.github.io/four-card-feature-section/).
 
+<a name="my-process"></a>
+## My Process
 
-
-
-## My process
-
-### Built with
+### Built With
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 
-
-
-
+<a name="author"></a>
 ## Author
 
 - Frontend Mentor - [@lily4178993](https://www.frontendmentor.io/profile/lily4178993)
+- LinkedIn - [Nelly T.](https://www.linkedin.com/in/nellytelli)
+  
+<a name="acknowledgments"></a>
+## Acknowledgments
+
+I would like to express my gratitude to Frontend Mentor for providing the Four Card Feature Section challenge that inspired this project.
+
+<a name="license"></a>
+## License
+
+This project is open-source and available under the [MIT License](./LICENSE).
+
+<a name="back-to-top"></a>
+[Back to Top](#overview)
